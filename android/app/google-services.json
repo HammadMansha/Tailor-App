@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "382469944935",
+    "project_id": "tailor-book-e570c",
+    "storage_bucket": "tailor-book-e570c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382469944935:android:b3caf3a26f47baba3e46c2",
+        "android_client_info": {
+          "package_name": "com.codegeektechnologies.tailor_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382469944935-epgus4u5fi2nlat6bjuirssjtu0qrkqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codegeektechnologies.tailor_book",
+            "certificate_hash": "b8175f0331645edd6a6d2b678bf99953b05d278b"
+          }
+        },
+        {
+          "client_id": "382469944935-d6fu7jmcigmstq5v4r5f656bdv46hg9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDum-Z1X7VkKcDbC_fuhuevdeKvGmJo87g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382469944935-d6fu7jmcigmstq5v4r5f656bdv46hg9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
